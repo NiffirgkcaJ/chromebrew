@@ -14,7 +14,7 @@ class Git < Meson
     aarch64: 'ab4b2380e801bdc264e491dfb6ecf53027d38106035ec2e3edc2e4c8a6f01809',
      armv7l: 'ab4b2380e801bdc264e491dfb6ecf53027d38106035ec2e3edc2e4c8a6f01809',
        i686: '8715e61777541ecc623df2e1bdf3c789d842e127ec9896ad8c4b6cf0000e1452',
-     x86_64: '91e321f0af87d0a19f588ea9f6e184bb3b8f6002506c349d7c2f05f16715e8dc'
+     x86_64: '998dc2299744bb4d6d4f3f4d01bf151a76f575c3dbede0c9e4255e1a853b1e85'
   })
 
   depends_on 'ca_certificates' => :build
